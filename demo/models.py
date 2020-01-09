@@ -2,12 +2,13 @@ from django.db import models
 
 # Create your models here.
 
-class Demo_number(models.Model):
+class Disk(models.Model):
     disk_number = models.CharField(max_length=2)
+    title = models.CharField(max_length=50)
 
 
 class Demo(models.Model):
-    disk_number = models.ForeignKey(Demo_number, on_delete=models.CASCADE)
+    disk = models.ForeignKey(Disk, on_delete=models.CASCADE)
     demo_number = models.CharField(max_length=2)
     title = models.CharField(max_length=50)
     movie = models.CharField(max_length=50)
