@@ -1,0 +1,573 @@
+DISC,demo_number,title,movie,sub_chapter,hit_count,download_count
+1,1,Basic Units,01_01.mpg,1,4352,3153
+1,2,Vector Addition (Parallelogram),01_02.mpg,8,1784,2887
+1,3,Vector Addition (Head to Tail),01_03.mpg,8,581,1553
+1,4,Vector Components,01_04.mpg,8,586,1577
+1,5,Vector Dot Product,01_05.mpg,3,525,1554
+1,6,Vector Cross Product,01_06.mpg,3,501,1561
+1,7,3-D Vector Components,01_07.mpg,8,603,1530
+1,8,Constant Velocity,01_08.mpg;01_09.mpg,1,933,3130
+1,9,Bulldozer on Moving Sheet,01_10.mpg;01_11.mpg,1,743,3016
+1,10,Rolling Ball Incline,01_12.mpg,6,545,1535
+1,11,Constant Acceleration,01_13.mpg;01_14.mpg,6,933,3071
+1,12,String and Weights Drop,01_15.mpg,6,406,1519
+1,13,Reaction Time Falling Meter Stick,01_16.mpg;01_17.mpg,6,683,2960
+1,14,Guinea and Feather,01_18.mpg;01_19.mpg,6,808,3014
+1,15,String and Weight Acceleration,01_20.mpg;01_21.mpg;01_22.mpg,7,1027,4387
+1,16,Atwood's Machine,01_23.mpg;01_24.mpg;01_25.mpg,7,1143,4802
+1,17,Acceleration with Spring,01_26.mpg,7,404,1506
+1,18,Dropped Slinky,01_27.mpg;01_28.mpg,7,938,2897
+1,19,Candle in Dropped Jar,01_29.mpg;01_30.mpg,10,811,2970
+2,1,Shooter/Dropper,02_01.mpg;02_02.mpg,3,532,605
+2,2,Monkey Gun,02_03.mpg,3,352,353
+2,3,Vertical Gun on Car,02_04.mpg;02_05.mpg;02_06.mpg,3,629,928
+2,4,Vertical Gun on Accelerated Car,02_07.mpg;02_08.mpg;02_09.mpg,3,645,852
+2,5,Air Table Parabolas,02_10.mpg,3,211,289
+2,6,Range Gun,02_11.mpg;02_12.mpg,3,405,549
+2,7,Vector Velocity Addition,02_13.mpg,6,203,279
+2,8,Bulldozer on Moving Sheet (2D),02_14.mpg;02_15.mpg;02_16.mpg;02_17.mpg,6,862,1140
+2,9,Sliding Weights with Triangle,02_18.mpg;02_19.mpg,6,408,545
+2,10,Sailing Upwind,02_20.mpg,7,215,280
+2,11,Local Vertical with Acceleration,02_21.mpg;02_22.mpg,7,402,562
+2,12,Shifted Air Track Inertia,02_23.mpg;02_24.mpg,2,409,580
+2,13,Inertia Cylinder,02_25.mpg;02_26.mpg,2,468,585
+2,14,Foam Rock,02_27.mpg,2,210,287
+2,15,Tablecloth Jerk,02_28.mpg,2,215,290
+2,16,Eggs and Pizza Pan,02_29.mpg,2,232,288
+2,17,Pencil and Plywood,02_30.mpg,2,211,277
+2,18,Reaction Gliders,02_31.mpg;02_32.mpg,6,430,576
+2,19,Reaction Gliders Momentum Conervation,02_33.mpg;02_34.mpg,6,379,564
+2,20,Car on Rolling Board,02_35.mpg,6,207,292
+2,21,Fan Car with Sail,02_36.mpg;02_37.mpg,6,397,545
+2,22,CO<SUB>2</SUB> Rocket,02_38.mpg,6,196,285
+2,23,Water Rocket,02_39.mpg,6,198,282
+2,24,Fire Extinguisher Wagon,02_40_1.mpg;02_40_2.mpg,6,387,558
+2,25,Helicopter Rotor,02_41.mpg,6,195,276
+2,26,See-Saw Reaction Carts,02_42.mpg;02_43.mpg,6,394,546
+3,1,Air Track Friction,03_01.mpg,1,249,321
+3,2,Static vs. Sliding Friction,03_02.mpg,1,205,299
+3,3,Area Dependence of Friction,03_03.mpg;03_04.mpg,1,424,611
+3,4,Weight Dependence of Friction,03_05.mpg;03_06.mpg,1,341,548
+3,5,Surface Dependence of Friction,03_07.mpg,1,183,291
+3,6,Stability of Rolling Car,03_08.mpg;03_09.mpg,1,352,549
+3,7,Pile Driver,03_10.mpg,1,191,282
+3,8,Spring Pong Gun,03_11.mpg,1,183,277
+3,9,Spring Jumper,03_12.mpg,1,174,281
+3,10,X-Squared Spring Energy Dependence,03_13.mpg;03_14.mpg;03_15.mpg,1,523,833
+3,11,High Bounce Paradox,03_16.mpg,1,209,300
+3,12,Energy Well Track,03_17.mpg;03_18.mpg,4,387,598
+3,13,Galileo's Pendulum,03_19.mpg;03_20.mpg,4,390,602
+3,14,Bowling Ball Pendulum,03_21.mpg,4,195,315
+3,15,Triple Track,03_22.mpg;03_23.mpg,4,350,593
+3,18,Prony Brake,03_26.mpg,8,183,308
+3,19,Stability,03_27.mpg,5,176,284
+3,20,Irregular Object Center of Mass,03_28.mpg,5,179,304
+3,21,Center of Mass Disc,03_29.mpg,5,185,293
+3,22,Chair on Pedestal,03_30.mpg;03_31.mpg,5,369,561
+3,23,Clown on Rope,03_32.mpg;03_33.mpg,5,343,560
+3,24,Double Cone on Incline,03_34.mpg;03_35.mpg,5,343,550
+3,25,Loaded Disc,03_36.mpg;03_37.mpg,5,343,548
+3,26,Toppling Cylinders,03_38.mpg,5,180,277
+3,27,Air Table Center of Mass,03_39.mpg,5,186,285
+4,1,Force Board,04_01.mpg,6,232,274
+4,2,Clothesline,04_02.mpg;04_03.mpg,6,411,535
+4,3,Load on Removable Incline,04_04.mpg;04_05.mpg,6,378,531
+4,4,Pulley Advantage,04_06.mpg,6,187,269
+4,5,Pulley and Scales,04_07.mpg;04_08.mpg,6,367,526
+4,6,Simple Machines,04_09.mpg,6,188,272
+4,7,Levers,04_10.mpg,6,187,274
+4,8,Horizontal Boom,04_11.mpg,6,187,271
+4,9,Arm Model,04_12.mpg,6,185,266
+4,10,Torque Bar,04_13.mpg,6,195,272
+4,11,Hinge Board,04_14.mpg;04_15.mpg,6,366,531
+4,12,Torque Wrench,04_16.mpg,6,191,283
+4,13,Torque Wheel,04_17.mpg;04_18.mpg;04_19.mpg,6,593,823
+4,14,Balancing Meter Stick,04_20.mpg;04_21.mpg;04_22.mpg,6,541,797
+4,15,Meter Stick on Fingers,04_23.mpg;04_24.mpg;04_25.mpg,6,573,783
+4,16,Bridge and Truck,04_26.mpg;04_27.mpg,6,387,520
+4,17,Roberval Balance,04_28.mpg,6,190,271
+4,18,Ladder Forces,04_29.mpg,6,191,271
+4,19,Broom Stand,04_30.mpg,6,187,273
+4,20,Bed of Nails,04_31.mpg,6,185,277
+4,21,Egg Crusher,04_32.mpg,6,200,285
+5,1,Colliding Balls,05_01.mpg,3,313,321
+5,2,Equal and Unequal Mass Collisions,05_02.mpg;05_03.mpg;05_04.mpg,3,650,833
+5,3,Elastic and Inelastic Collisions,05_05.mpg;05_06.mpg,3,453,570
+5,4,Coefficient of Restitution,05_07.mpg,3,212,287
+5,5,High Bounce,05_08.mpg,3,223,293
+5,6,Air Table Collisions (Equal Mass),05_09.mpg,4,229,293
+5,7,Air Table Collisions (Unequal Mass),05_10.mpg,4,205,281
+5,8,Air Table Collisions (Inelastic),05_11.mpg,4,200,279
+5,9,Egg in Sheet,05_12.mpg;05_13.mpg,3,478,577
+5,10,Pile Driver with Foam Rubber,05_14.mpg,3,217,288
+5,11,Ballistic Pendulum,05_15.mpg,3,223,275
+5,12,Radian Disc,05_16.mpg,2,214,271
+5,13,Cycloid Generator,05_17.mpg;05_18.mpg,2,397,540
+5,14,Circle with Gap,05_19.mpg,2,211,289
+5,15,Rotation Disc with Erasers,05_21.mpg;05_22.mpg,2,429,561
+5,16,Spinning Disc with Water,05_23.mpg,2,208,287
+5,17,Ball on Cord,05_24.mpg,2,219,283
+5,18,Coin on a Coat Hanger,05_25.mpg,2,208,279
+5,19,Plane on String,05_26.mpg,2,213,278
+5,20,Roundup,05_27.mpg,2,206,275
+5,21,Whirling Bucket of Water,05_28.mpg,2,208,280
+5,22,Centrifuge Hoops,05_29.mpg,2,205,278
+5,23,Water and Mercury Centrifuge,05_30.mpg;05_31.mpg,2,407,550
+5,24,Spinning Chain,05_32.mpg;05_33.mpg,2,414,537
+5,25,Rotating Rubber Wheel,05_34.mpg,2,212,278
+5,26,Centrifuge Governor,05_35.mpg,2,210,273
+6,1,Angular Acceleration Machine,06_01.mpg,7,285,283
+6,2,Bike Wheel Angular Acceleration,06_02.mpg,7,239,272
+6,3,Air Rotator with Deflectors,06_03.mpg,7,235,272
+6,4,Rolling Bodies on Incline,06_04.mpg;06_05.mpg;06_06.mpg,11,720,804
+6,5,Spool on Incline,06_07.mpg;06_08.mpg,11,470,547
+6,6,Bike Wheel on Incline,06_09.mpg;06_10.mpg,11,478,549
+6,7,Spool with Wrapped Ribbon,06_11.mpg;06_12.mpg,11,466,538
+6,8,Maxwell's Yoyo,06_13.mpg,11,241,290
+6,9,Loop the Loop,06_14.mpg;06_15.mpg,11,451,534
+6,10,Penny Drop Stick,06_16.mpg,7,236,278
+6,11,Hinged Stick and Ball,06_17.mpg,7,234,278
+6,12,Center of Percussion,06_18.mpg,7,237,261
+6,13,Foucault Pendulum,06_19.mpg,7,237,269
+6,14,Coriolis Effect,06_20.mpg,7,230,282
+7,1,Marbles and Funnel,07_01.mpg,9,254,271
+7,2,Train on a Circular Track,07_02.mpg,9,234,267
+7,3,Tail Wags Dog,07_03.mpg,9,225,262
+7,4,Rotating Stool with Weights,07_04.mpg,9,238,279
+7,5,Rotating Stool and Long Bar,07_05.mpg;07_06.mpg,9,463,523
+7,6,Rotating Stool and Bicycle Wheel,07_07.mpg,9,251,287
+7,7,Gyroscopic Stability,07_08.mpg,9,253,286
+7,8,Wheel and Brake,07_09.mpg,9,220,268
+7,9,Satellite Derotator,07_10.mpg;07_11.mpg,9,428,524
+7,10,Bike Wheel Precession,07_12.mpg,10,246,281
+7,11,Gyroscope with Adjustable Weights,07_13.mpg,10,232,279
+7,12,Bike Wheel on Gimbals,07_14.mpg;07_15.mpg,10,435,532
+7,13,Double Bike Wheel,07_16.mpg;07_17.mpg,10,442,528
+7,14,Motorized Gyroscope,07_18.mpg;07_19.mpg;07_20.mpg,10,678,780
+7,15,Static/Dynamic Balance,07_21.mpg,7,216,267
+7,16,Football Spin,07_22.mpg,7,217,266
+7,17,Tippy Top,07_23.mpg,7,219,272
+7,18,Ship Stabilizer,07_24.mpg,7,215,265
+7,19,Spinning Rod and Hoop on Wire,07_25.mpg,7,219,266
+7,20,Stable and Unstable Axes of Rotation,07_26.mpg,7,213,259
+7,21,Sections of a Cone,07_27.mpg,3,225,265
+7,22,Ellipse Drawing Board,07_28.mpg,3,216,261
+7,23,Cavendish Balance,07_29.mpg,1,247,280
+8,10,Tuning Fork with Light,08_11.mpg,0,208,299
+8,11,Mass on Spring,08_12.mpg;08_13.mpg;08_14.mpg,1,622,841
+8,12,Air Track Simple Harmonic Motion,08_15.mpg;08_16.mpg;08_17.mpg,1,521,792
+8,13,Torsion Pendulum,08_18.mpg;08_19.mpg,4,342,540
+8,14,Different Mass Pendula,08_20.mpg;08_21.mpg,4,350,534
+8,15,4:1 Pendula,08_22.mpg;08_23.mpg,4,340,540
+8,16,Hoops and Arcs,08_24.mpg,4,163,263
+8,17,Pendulum with Large Amplitude,08_25.mpg;08_26.mpg;08_27.mpg;08_28.mpg;08_29.mpg;08_30.mpg;08_31.mpg,4,1383,1847
+8,18,Physical Pendulum,08_32.mpg,5,176,271
+8,19,Variable Angle Pendulum,08_33.mpg,4,168,275
+8,20,Circular Motion vs. Spring and Weight,08_34.mpg,1,187,292
+8,21,Circular Motion vs. Pendulum,08_35.mpg,4,184,300
+8,22,Phase Shift,08_36.mpg,1,175,277
+8,23,Periodic Non-Simple Harmonic Motion,08_37.mpg,0,175,265
+8,24,Inertia Balance,08_38.mpg,5,163,267
+8,25,Pendulum Waves,08_39.mpg,4,180,269
+8,26,Lissajous Figures,08_40.mpg,4,165,269
+9,1,Bowling Ball Pendulum Resonance,09_01.mpg,7,284,291
+9,2,Resonant Driven Pendula,09_02.mpg,7,264,296
+9,3,Driven Sprint and Weight,09_03.mpg,7,245,285
+9,4,Pump Pendulum,09_04.mpg,7,237,274
+9,5,Reed Tachometer,09_05.mpg,7,231,280
+9,6,Glass Breaking with Sound,09_06.mpg,8,236,284
+9,7,Coupled Pendula,09_07.mpg,8,245,281
+9,8,Wilberforce Pendulum,09_08.mpg,8,233,279
+9,9,Wave on Rope,09_09.mpg,3,278,302
+9,10,Pulse on Moving Chain,09_10.mpg,3,247,272
+9,11,Tension Dependence of Wave Speed,09_11.mpg;09_12.mpg,3,478,579
+9,12,Torsional Waves,09_13.mpg,3,244,303
+9,13,Wave Speed,09_14.mpg,3,274,311
+9,14,Longitudinal Wave Model,09_15.mpg,3,250,305
+9,15,Longitudinal Slinky Waves,09_16.mpg,3,234,284
+9,16,Wave Superposition,09_17.mpg;09_18.mpg,1,505,601
+9,17,Reflection of Waves,09_19.mpg,5,292,336
+9,18,Spring Wave Reflection,09_20.mpg,5,244,298
+9,19,Wave Coupling,09_21.mpg,5,241,277
+9,20,Refraction of Water Waves,09_22.mpg,5,241,289
+9,22,Double Slit Interference of Water Waves,09_24.mpg,2,235,294
+9,23,Moire Pattern,09_25.mpg,2,218,278
+9,24,Longitudinal Standing Waves,09_26.mpg,3,235,286
+9,25,Slinky Standing Waves,09_27.mpg,3,240,281
+9,26,Standing Waves,09_28.mpg,3,283,303
+9,27,Three Tensions Standing Waves,09_29.mpg,3,271,277
+9,28,Rubber Tube Standing Waves,09_30.mpg,3,243,278
+9,29,Drumhead,09_31.mpg,3,231,271
+9,30,Chladni Plates,09_32.mpg,3,249,283
+10,1,Guitar and Scope,10_01.mpg,7,249,293
+10,2,Sonometer,10_02.mpg,7,215,274
+10,3,Tuning Forks,10_03.mpg,7,225,280
+10,4,Adjustable Tunin Fork,10_04.mpg;10_05.mpg,7,418,532
+10,5,Rectangular Bar Oscillations,10_06.mpg,7,204,264
+10,6,High Frequency Metal Bars,10_07.mpg,7,208,269
+10,7,Xylophone Bars,10_08.mpg,7,208,269
+10,8,Singing Rods,10_09.mpg;10_10.mpg;10_11.mpg,7,629,816
+10,9,Siren in Vacuum,10_12.mpg,7,211,281
+10,10,Siren Disc,10_13.mpg,7,205,278
+10,11,Gear and Card,10_14.mpg,7,202,264
+10,12,Cutaway Speaker,10_15.mpg,7,206,264
+10,13,Sound Velocity at Different Temperatures,10_16.mpg,7,207,269
+10,14,Sound in Helium,10_17.mpg,7,216,275
+10,15,Fourier Synthesizer,10_18.mpg,7,241,292
+10,16,Vocal Formants,10_19.mpg,7,205,277
+10,17,Acoustic Couping,10_20.mpg,7,207,279
+10,18,Tuning Fork Beats,10_21.mpg,6,223,304
+10,19,Beats with Speaker and Osilloscope,10_22.mpg,6,234,287
+10,20,Two-Speaker Interference,10_23.mpg;10_24.mpg,2,455,568
+10,21,Doppler Effect,10_25.mpg,8,243,308
+11,1,Resonance Tube with Piston,11_01.mpg,5,170,297
+11,2,Resonance Tubes (Three Lengths),11_02.mpg;11_03.mpg,5,316,530
+11,3,Kundt's Tube,11_04.mpg,5,158,263
+11,4,Resonance Tube,11_05.mpg,5,163,267
+11,5,Open and Closed End Pipes,11_06.mpg,5,156,268
+11,6,Slide Whistle,11_07.mpg;11_08.mpg,5,299,515
+11,7,Singing Pipes,11_09.mpg,5,161,264
+11,8,Tuning Forks on Resonance Boxes,11_10.mpg,5,152,271
+11,9,Helmholtz Resonators,11_11.mpg,5,151,267
+11,10,Mercury Barometer in Vacuum,11_12.mpg,1,149,262
+11,11,Aneroid Barometer in Vacuum,11_13.mpg,1,149,260
+11,12,Magdeburg Hemispheres,11_14.mpg,1,145,269
+11,13,Adhesion Plates,11_15.mpg,1,148,273
+11,14,Crush Can,11_16.mpg,1,157,275
+11,15,Vacuum Bazooka,11_17.mpg,1,154,272
+11,16,Barrel Crush,11_18.mpg,1,145,267
+11,17,Air Pressure Lift,11_19.mpg,1,149,262
+11,18,Inertia Shingles,11_20.mpg,1,145,267
+11,19,Rubber Sheet Lifting Chair,11_21.mpg,1,148,265
+12,1,Same Level Tubes,12_01.mpg,2,238,277
+12,2,Pressure vs. Depth,12_02.mpg;12_03.mpg,2,472,538
+12,3,Pressure vs. Depth in Water and Alcohol,12_04.mpg;12_05.mpg,2,437,522
+12,4,Pressure Independent of Direction,12_06.mpg,2,233,275
+12,5,Water/Air Compression,12_07.mpg,2,228,271
+12,6,Water and Mercury U-tube,12_08.mpg,2,226,268
+12,7,Hydraulic Press,12_09.mpg,2,232,269
+12,8,Hydrostatic Paradox,12_10.mpg;12_11.mpg,2,466,530
+12,9,Hydrometer,12_12.mpg,4,221,263
+12,10,Weight of Air,12_13.mpg,4,213,267
+12,11,Buoyant Force,12_14.mpg;12_15.mpg,4,460,533
+12,12,Archimedes' Principle,12_16.mpg;12_17.mpg,4,478,563
+12,13,Board and Weights Float,12_18.mpg,4,212,264
+12,14,Different Density Wood,12_19.mpg,4,222,264
+12,15,Density Ball,12_20.mpg,4,219,260
+12,16,Denstity Balls in Beans,12_21.mpg,4,223,261
+12,17,Battleship in Bathtub,12_22.mpg,4,222,266
+12,18,Buoyancy in Various Liquids,12_23.mpg,4,212,272
+12,19,Floating Square Bar,12_24.mpg,4,213,264
+12,20,Helium Balloon in Glass jar,12_25.mpg;12_26.mpg;12_27.mpg,4,645,769
+12,21,Helium Balloon in Liquid Nitrogen,12_28.mpg,4,216,278
+12,22,Cartesian Diver,12_29.mpg,4,223,277
+13,1,Pitot Tube,13_01.mpg,5,205,271
+13,2,Flettner Rotor,13_02.mpg,7,131,269
+13,3,Curve Balls,13_03.mpg,7,129,276
+13,4,Floating Ball in Air Jet,13_04.mpg,7,127,267
+13,5,Suspended Plate in Air Jet,13_05.mpg,7,117,269
+13,6,Suspended Parallel Cards,13_06.mpg,7,120,267
+13,7,Vortex Cannon,13_07.mpg,7,131,263
+13,8,Un-mixing,13_08.mpg,6,128,269
+13,9,Tornado Tube,13_09.mpg,5,126,279
+13,10,Siphon,13_10.mpg,5,124,267
+13,11,Syring Water Velocity,13_11.mpg,6,119,262
+13,12,Uniform Pressure Drop,13_12.mpg,6,123,267
+13,13,Bernoulli's Principle,13_13.mpg;13_14.mpg,7,377,555
+13,14,Water Hammer,13_15.mpg,8,125,263
+13,15,Toricelli's Tank,13_16.mpg;13_17.mpg,8,241,527
+13,16,Accelerometers,13_18.mpg;13_19.mpg,8,243,533
+13,17,Paraboloid of Revolution,13_20.mpg;13_21.mpg,8,242,517
+13,18,Rotating Water Troughs,13_22.mpg;13_23.mpg,8,248,523
+14,1,Air Friction,14_01.mpg,4,201,287
+14,2,Viscous Drag,14_02.mpg,4,188,270
+14,3,Ball Drop,14_03.mpg;14_04.mpg;14_05.mpg;14_06.mpg;14_07.mpg;14_08.mpg;14_09.mpg,4,1469,1803
+14,4,Gas Viscosity Change with Temperature,14_10.mpg;14_11.mpg,4,357,522
+14,5,Viscosity of Alcohol at Low Temperature,14_12.mpg,4,184,264
+14,6,Oil Viscosity,14_13.mpg,4,181,262
+14,7,Thermal Expansion of Wire,14_14.mpg,3,203,290
+14,8,Bimetallic Strip,14_15.mpg,3,183,278
+14,9,Thermostat Model,14_16.mpg,3,195,281
+14,10,Pin Breaker,14_17.mpg,3,183,274
+14,11,Thermal Expansion,14_18.mpg;14_19.mpg,3,397,565
+14,12,Thermal Expansion of Air,14_20.mpg,3,190,280
+14,13,Thermal Expansion of Water,14_21.mpg,3,183,267
+14,14,Negative Expansion Coefficient of Water,14_22.mpg,3,187,273
+14,15,Dust Explosion,14_23.mpg,3,185,258
+14,16,Scaling Cube,14_24.mpg,3,182,266
+14,17,Specific Heat,14_25.mpg,2,194,280
+14,18,Specific Heat with Roads and Wax,14_26.mpg,2,183,272
+14,19,Boiling Water in a Paper Cup,14_27.mpg,2,184,270
+14,20,Water Balloon Heat Capacity,14_28.mpg,2,184,271
+14,21,Thermal Conductivity,14_29.mpg,10,195,278
+14,22,Leidenfrost Phenomenon,14_30.mpg,10,197,266
+14,23,Radiometer,14_31.mpg,10,186,267
+14,24,Two Can Radiation,14_32.mpg;14_33.mpg,10,383,523
+14,25,Radiation Cube,14_34.mpg,10,188,274
+14,26,Insulation (Dewar Flasks),14_35.mpg,10,186,270
+14,27,Convection Currents,14_36.mpg,10,193,279
+15,1,Drill and Dowel,15_01.mpg,1,174,280
+15,2,Mechanical Equivalent of Heat,15_02.mpg,1,172,284
+15,3,CO<SUB>2</SUB> Expansion Cooling,15_03.mpg,4,166,273
+15,4,Adiabatic Expansion,15_04.mpg,4,181,281
+15,5,Fire Syringe,15_05.mpg,4,165,269
+15,6,Stirling Engine,15_06.mpg,4,177,279
+15,7,Hero's Engine,15_07.mpg,4,171,269
+15,8,Cork Popper,15_08.mpg,4,156,262
+15,9,Liquid Nitrogen in Balloon,15_09.mpg,3,159,267
+15,10,Boil Water Under Reduced Pressure,15_10.mpg,3,161,269
+15,11,CO<SUB>2</SUB> Critical Point,15_11.mpg,3,152,267
+15,12,Drinking Bird,15_12.mpg,3,168,265
+15,13,Freezing by Boiling,15_13.mpg,3,162,275
+15,14,Cryophorus,15_14.mpg,3,156,263
+15,15,Ice Bomb,15_15.mpg,3,161,266
+15,16,Regelation,15_16.mpg,3,150,260
+15,17,Helium and CO<SUB>2</SUB> Balloon in Liquid Nitrogen,15_17.mpg,3,160,267
+15,18,Sublimation of CO<SUB>2</SUB>,15_18.mpg,3,161,264
+15,19,Slime Ball,15_19.mpg,3,163,264
+16,1,Pressure vs. Volume,16_01.mpg,5,247,276
+16,2,Pressure vs. Temperature,16_02.mpg,5,229,266
+16,3,Temperature Increase Simulation,16_03.mpg,5,233,270
+16,4,Pressure vs. Volume Simulation,16_04.mpg,5,225,265
+16,5,Equipartition of Energy Simulation,16_05.mpg,5,235,285
+16,6,Mercury Kinetic Theory,16_06.mpg,5,227,274
+16,7,Brownian Motion,16_07.mpg,5,226,270
+16,8,Brownian Motion Simulation,16_08.mpg,5,226,269
+16,9,Diffusion,16_09.mpg,5,218,262
+16,10,Diffusion Simulation,16_10.mpg,5,206,260
+16,11,Bromine Diffusion,16_11.mpg,5,215,265
+16,12,Gaussian Curve,16_12.mpg,5,213,263
+16,13,Free Expansion Simulation,16_13.mpg,5,230,268
+16,14,Superconductors,16_14.mpg,3,220,268
+16,15,Crystal Models,16_15.mpg,4,212,262
+16,16,Faults in Crystal,16_16.mpg,4,210,272
+16,21,Electrostatic Rods,16_21.mpg,2,225,271
+16,22,Electrostatic Rod and Cloth,16_22.mpg,2,222,268
+16,23,Electrostatic Ping-Pong Deflection,16_23.mpg,2,231,267
+16,24,Electrostatic Ping-Pong Balls,16_24.mpg,2,228,266
+16,25,Conductors and Insulators,16_25.mpg,3,225,266
+16,26,Piezoelectric Sparker,16_26.mpg,2,222,264
+17,1,Electrostatic Induction,17_01.mpg;17_02.mpg,2,500,622
+17,2,Metal Rod Attraction,17_03.mpg,2,196,301
+17,3,Electrophorus,17_04.mpg,2,169,286
+17,4,Induction Generator,17_05.mpg,2,155,279
+17,5,Kelvin Water Dropper,17_06.mpg,2,151,282
+17,6,Wooden Needle,17_07.mpg,2,155,294
+17,7,Van de Graaff Generator,17_08.mpg,5,191,296
+17,8,Van de Graaff with Streamers,17_09.mpg,5,149,278
+17,9,Van de Graaff and Wand,17_10.mpg,5,152,273
+17,10,Electric Field,17_11.mpg,5,221,323
+17,11,Lightning Rod,17_12.mpg,5,151,274
+17,12,Pinwheel,17_13.mpg,5,145,274
+17,13,Point and Candle,17_14.mpg,5,147,273
+17,14,Faraday Cage,17_15.mpg;17_16.mpg,5,311,572
+17,15,Faraday Ice Pail,17_17.mpg;17_18.mpg,5,308,549
+17,16,Smoke Precipitation,17_19.mpg,5,141,282
+17,17,Electron Discharge Tube with Wheel,17_20.mpg,5,140,273
+17,18,Resistance Wires,17_21.mpg,2,138,276
+17,19,Ohm's Law,17_22.mpg,2,146,278
+17,20,Heated Wire,17_23.mpg,2,136,276
+17,21,Cooled Wire,17_24.mpg,2,129,271
+17,22,Electron Motion Model,17_25.mpg,4,144,281
+17,23,Series/Parallel Resistors,17_26.mpg;17_27.mpg;17_28.mpg,7,377,811
+17,24,Series/Parallel Light Bulbs,17_29.mpg;17_30.mpg,7,259,539
+17,25,Wheatstone Bridge,17_31.mpg,2,136,270
+17,26,Galvanometer as Voltmeter and Ammeter,17_32.mpg,2,136,269
+17,27,Conservation of Current,17_33.mpg;17_34.mpg,8,264,542
+18,1,Voltage Drop Along Wire,18_01.mpg,8,234,272
+18,2,Sum of IR Drops,18_02.mpg,8,218,278
+18,3,Internal Resistance of Batteries,18_03.mpg,5,214,275
+18,4,Loading by a Voltmeter,18_04.mpg,5,210,273
+18,5,Voltage Drops in House Wires,18_05.mpg,5,219,261
+18,6,I<SUP>2</SUP> Losses,18_06.mpg,5,228,271
+18,7,Hot Dog Frying,18_07.mpg,5,232,273
+18,8,Neon Bulb Resistivity,18_08.mpg,2,217,262
+18,9,Carbon and Tungsten Lamps,18_09.mpg,2,212,262
+18,10,Diode,18_10.mpg,2,216,264
+18,11,Rectifier Circuit,18_11.mpg,2,210,263
+18,12,Transistor Amplifier,18_12.mpg,2,217,268
+18,13,Conductivity of Solutions,18_13.mpg,6,210,267
+18,14,Battery Effect,18_14.mpg,6,221,261
+18,15,Pickle Frying,18_15.mpg,6,222,266
+18,16,Electrolysis,18_16.mpg,6,216,270
+18,17,Electroplating,18_17.mpg,6,208,268
+18,18,Leyden Jars on Toepler-Holtz,18_18.mpg,7,213,272
+18,19,Parallel Plate Capacitor,18_19.mpg;18_20.mpg,7,460,557
+18,20,Parallel Plate Capacitor Dielectrics,18_21.mpg,10,229,292
+18,21,Rotary Capacitor,18_22.mpg;18_23.mpg,7,427,548
+18,22,Battery and Separable Capacitor,18_24.mpg,7,208,277
+18,23,Exploding Capacitor,18_25.mpg,9,229,278
+18,24,Force on a Dielectric,18_26.mpg,10,216,285
+18,25,Dissectible Capacitor,18_27.mpg;18_28.mpg,7,433,532
+18,26,Grounded Leyden Jar,18_29.mpg,7,210,260
+18,27,Series/Parallel Capacitors,18_30.mpg;18_31.mpg,8,426,534
+18,28,RC Charging Curve,18_32.mpg,7,220,271
+18,29,Relaxation Oscillator,18_33.mpg,7,218,264
+19,1,Magnetic Attraction/Repulsion,19_01.mpg,2,218,286
+19,2,Lodestone,19_02.mpg,2,193,285
+19,3,Dip Needle,19_03.mpg,2,191,287
+19,4,Magnetic Fields Around Bar Magnets,19_04.mpg,2,211,286
+19,5,Broken Magnet,19_05.mpg;19_06.mpg,2,368,548
+19,6,Lowest Energy Configuration,19_07.mpg,2,188,280
+19,7,Right Hand Rule,19_08.mpg,9,201,293
+19,8,Oersted's Needle,19_09.mpg,9,203,294
+19,9,Magnetic Fields Around Currents,19_10.mpg,9,231,302
+19,10,Solenoid Bar Magnet,19_11.mpg,10,194,289
+19,11,Large Electromagnet,19_12.mpg,10,193,276
+19,12,Electromagnet with 1.5V Battery,19_13.mpg;19_14.mpg,10,374,538
+19,13,Pinch Wires,19_15.mpg,8,200,278
+19,14,Biot-Savart Law,19_16.mpg,7,205,282
+19,15,Magnetizing Iron by Contact,19_17.mpg,11,178,269
+19,16,Magnetic Domain Model,19_18.mpg,11,186,271
+19,17,Magnetizing Iron,19_19.mpg,11,182,271
+19,18,Demagnetizing Iron by Hammering,19_20.mpg,11,198,277
+19,20,Magnetic Shielding,19_22.mpg,11,194,278
+19,21,Permalloy in Earth's Field,19_23.mpg,11,183,275
+19,22,Paramagnetism and Diamagnetism,19_24.mpg,11,200,283
+19,23,Dysprosium in Liquid Nitrogen,19_25.mpg,11,183,269
+19,24,Curie Nickel,19_26.mpg,11,190,273
+19,25,Curie Temperature Wheel,19_27.mpg,11,186,274
+20,1,Jumping Wire,20_01.mpg;20_02.mpg,5,363,587
+20,2,Ampere's Frame,20_03.mpg,5,160,277
+20,3,Deflected Electron Beam,20_04.mpg,5,155,291
+20,4,Fine Beam Tube,20_05.mpg,5,137,271
+20,5,Barlow's Wheel,20_06.mpg,5,137,268
+20,6,Ion Motor,20_07.mpg,5,131,267
+20,7,AC/DC Magnetic Contrast,20_08.mpg,5,133,278
+20,8,D'Arsonval Meter,20_09.mpg,5,120,264
+20,9,DC Motor,20_10.mpg,5,153,279
+20,10,Hall Effect,20_11.mpg,5,143,279
+20,11,Wire and Magnet,20_12.mpg,1,148,267
+20,12,10/20/40 Coils with Magnet,20_13.mpg,1,140,279
+20,13,Earth Coil,20_14.mpg,1,139,278
+20,14,Faraday Disc,20_15.mpg,1,144,279
+20,15,AC/DC Generator,20_16.mpg,1,148,284
+20,16,Current-Coupled Pendula,20_17.mpg,1,130,277
+20,17,Inductive Coil with Lamp,20_18.mpg,1,151,285
+20,18,Thompson's Flying Ring,20_19.mpg,1,154,291
+20,19,Faraday Repulsion Coil,20_20.mpg;20_21.mpg,1,289,537
+20,20,Two Coils,20_22.mpg,1,167,271
+20,21,Induction Coil,20_23.mpg,1,146,288
+20,22,Vertical Primary and Secondary Coils,20_24.mpg,1,130,273
+20,23,Transformers,20_25.mpg,1,133,275
+20,24,Eddy Current Pendulum,20_26.mpg,3,161,292
+20,25,Arago's Disc,20_27.mpg,3,142,275
+20,26,Eddy Current Tubes,20_28.mpg,3,137,278
+20,27,Electromagnetic Can Breaker,20_29.mpg,3,157,280
+20,28,Hysteresis Curve,20_30.mpg,7,135,266
+20,29,Hysteresis Waste Heat,20_31.mpg,7,121,265
+21,1,Inductance Spark,21_01.mpg,6,239,286
+21,2,Inductor with Lamp on AC,21_02.mpg,6,216,280
+21,3,Lamps in Parallel with Solenoid,21_03.mpg;21_04.mpg;21_05.mpg,6,646,787
+21,7,Light in a Vacuum,21_10.mpg,3,217,274
+21,8,Straight Line Propagation,21_11.mpg,3,198,267
+21,9,Pinhole Camera,21_12.mpg,3,194,267
+21,10,Inverse Square Law,21_13.mpg;21_14.mpg,3,381,528
+21,11,Radio Waves,21_15.mpg,3,223,279
+21,12,Impossible Triangle,21_16.mpg,3,211,265
+21,13,Lecher Wires,21_17.mpg,3,197,264
+21,14,Microwave Unit,21_18.mpg,3,197,265
+21,15,Microwave Standing Waves,21_19.mpg,3,202,263
+21,16,Microwave Absorption,21_20.mpg,3,188,261
+21,17,Radio in Faraday Cage,21_21.mpg,9,200,272
+21,18,Microwave Reflection,21_22.mpg,3,188,262
+21,19,Diffuse/Specular Reflection,21_23.mpg,3,199,258
+21,20,Angles of Incidence and Reflection,21_24.mpg,3,193,265
+21,21,Location of Image,21_25.mpg,1,196,255
+21,22,Parity Reversal in Mirror,21_26.mpg,1,190,258
+21,23,Hinged Mirrors,21_27.mpg;21_28.mpg,1,380,504
+21,24,Corner Reflector,21_29.mpg,1,190,254
+21,25,Barbershop Mirrors,21_30.mpg,1,196,256
+21,26,Mirror Box,21_31.mpg,1,196,260
+22,1,Concave and Convex Mirrors,22_01.mpg,2,221,309
+22,2,Spherical Aberration in a Mirror,22_02.mpg,2,158,275
+22,3,Energy at a Focal Point,22_03.mpg,2,162,276
+22,4,Heat Focusing,22_04.mpg,2,170,286
+22,5,Large Concave Mirror,22_05.mpg,2,165,279
+22,6,Refraction/Reflection from Plastic Block,22_06.mpg,4,175,278
+22,7,Small Refraction Tank,22_07.mpg,4,163,262
+22,8,Acrylic/Lead Glass Refraction,22_08.mpg,4,149,264
+22,9,Three Different Prisms,22_09.mpg,4,167,276
+22,10,Disappearing Eye Dropper,22_10.mpg,4,185,263
+22,11,Critical Angle/Total Internal Reflection,22_11.mpg,7,188,287
+22,12,Silver Soot Ball,22_12.mpg,7,156,258
+22,13,Light Pipes,22_13.mpg,8,173,270
+22,14,Optical Path in Fibers,22_14.mpg,8,183,270
+22,15,Laser Waterfall,22_15.mpg,8,194,271
+22,16,Real Image Formation,22_16.mpg,16,125,262
+22,17,Lens Magnification,22_17.mpg,17,110,267
+22,18,Ray Tracing with Lenses,22_18.mpg,18,117,263
+22,19,Fresnel Lens,22_19.mpg,19,116,264
+22,20,Fillable Air Lenses,22_20.mpg;22_21.mpg,20,209,515
+22,21,Spherical Aberration,22_22.mpg,5,153,266
+22,22,Chromatic Aberration,22_23.mpg,5,158,266
+22,23,Astigmatism,22_24.mpg,5,156,261
+22,24,Off-Axis Distortion,22_25.mpg,5,151,262
+23,1,Microwave Diffraction,23_01.mpg;23_02.mpg,6,427,529
+23,2,Single Slit Diffraction,23_03.mpg,6,237,290
+23,3,Single Slit Diffraction (Cornell Slides),23_04.mpg,6,203,266
+23,4,Thin Wire Diffraction,23_05.mpg,6,198,282
+23,5,Poisson's Bright Spot,23_06.mpg,6,199,269
+23,6,Shadow of Needle,23_07.mpg,6,193,265
+23,7,Pin Hole Diffraction,23_08.mpg,6,203,285
+23,8,Knife Edge Diffraction,23_09.mpg,6,197,281
+23,9,Resolving Power,23_10.mpg,7,195,280
+23,10,Microwave Double Slit Interference,23_11.mpg;23_12.mpg,2,374,538
+23,11,Double Slit Interference,23_13.mpg,3,242,289
+23,12,Multiple Slit Interference,23_14.mpg,3,208,280
+23,13,Interference Gratings,23_15.mpg,3,207,287
+23,14,Glass Plates in Sodium Light,23_16.mpg,5,192,272
+23,15,Newton's Rings,23_17.mpg,5,210,274
+23,16,Interference Filters,23_18.mpg,5,188,264
+23,17,Pohl's Mica Sheet,23_19.mpg,5,183,259
+23,18,Soap Film Interference,23_20.mpg,5,206,274
+23,19,Microwave Interferometer,23_21.mpg,1,183,272
+23,20,Michelson Interferometer with White Light,23_22.mpg,1,196,269
+23,21,Holograms,23_23.mpg,1,196,274
+23,22,Infraed in Spectrum,23_24.mpg,7,188,266
+23,23,Colors in Spectral Light,23_25.mpg,7,191,274
+23,24,Rainbow Disc,23_26.mpg,7,187,271
+23,25,Newton's Color Disc,23_27.mpg,7,192,262
+23,26,Additive Color Mixing,23_28.mpg,7,184,265
+24,1,Polaroid Sheets Crossed and Uncrossed,24_01.mpg,8,207,280
+24,2,Polaroid Cut at 45 Degrees,24_02.mpg,8,117,267
+24,3,Rotation by Polarizing Filter,24_03.mpg,8,123,269
+24,4,Microwave Polarization,24_04.mpg,8,107,257
+24,5,Polarization by Reflection,24_05.mpg,8,122,270
+24,6,Polarization by Double Reflection,24_06.mpg,8,110,259
+24,7,Polarization by Scattering,24_07.mpg,8,120,267
+24,8,Artificial Sunset,24_08.mpg,8,134,274
+24,9,Optical Activity in Cellophane Tape,24_09.mpg,8,122,274
+24,10,Polarized Lion,24_10.mpg,8,120,272
+24,11,Optical Activity in Corn Syrup,24_11.mpg,8,104,258
+24,12,Polage,24_12.mpg,8,104,266
+24,13,Photoelastic Stress Figures,24_13.mpg,8,104,260
+24,14,Barbershop Sugar Tube,24_14.mpg,8,108,260
+24,15,Quater Wave Plate,24_15.mpg,8,114,260
+24,16,Double Refraction in Calcite,24_16.mpg,8,109,275
+24,17,Liquid Crystal Sheets,24_17.mpg,8,111,256
+24,18,Radiation Spectrum of a Hot Object,24_18.mpg,1,136,266
+24,19,Photoelectric Effect in Zinc,24_19.mpg,2,136,280
+24,20,X-ray Ionization,24_20.mpg,4,112,263
+24,21,Solar Cells,24_21.mpg,2,126,263
+24,22,Microwave Barrier Penetration,24_22.mpg,6,115,263
+24,23,Electron Diffraction,24_23.mpg,5,127,261
+24,24,Millikan Oil Drop,24_24.mpg,6,126,272
+24,25,Bichsel Boxes,24_25.mpg,1,109,270
+25,1,Emission Spectra,25_01.mpg,7,315,300
+25,2,Specral Absorption by Sodium Vapor,25_02.mpg;25_03.mpg,7,441,520
+25,3,Thermionic Emission,25_04.mpg;25_05.mpg,6,469,521
+25,4,Electron Discharge Tube with Cross,25_06.mpg,6,224,274
+25,5,Discharge Tube and Vacuum Pump,25_07.mpg,7,215,270
+25,6,Plasma Tube,25_08.mpg,7,223,266
+25,7,Flame Salts,25_09.mpg,7,217,256
+25,8,Jacob's Ladder,25_10.mpg,7,225,279
+25,9,Triboluminescence,25_11.mpg,7,207,267
+25,10,Luminescence,25_12.mpg,7,220,265
+25,11,Fluorescence,25_13.mpg,7,217,259
+25,12,Franck-Hertz Effect,25_14.mpg,1,223,273
+25,13,Rutherford Scattering,25_15.mpg,1,255,289
+25,14,Nuclear Shielding,25_16.mpg,3,228,264
+25,15,Mousetrap Chain Reaction,25_17.mpg,5,210,273
+25,16,Half-Life,25_18.mpg,4,219,273
+25,17,Cosmic Rays,25_19.mpg,1,235,277
