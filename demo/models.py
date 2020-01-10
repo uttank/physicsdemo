@@ -8,7 +8,7 @@ class Disk(models.Model):
 
 
 class Demo(models.Model):
-    disk = models.ForeignKey(Disk, default="", on_delete=models.CASCADE)
+    #disk = models.ForeignKey(Disk, default="", on_delete=models.CASCADE)
     demo_number = models.CharField(max_length=2)
     title = models.CharField(max_length=50)
     movie = models.CharField(max_length=50)
